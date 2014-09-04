@@ -1,0 +1,4 @@
+#!/usr/bin/perl
+#Extends the log parser and sniff the network using the libpcap library
+#the data will be processed with one (multiple ?) regexp passed as argument the r
+#takes the tcpdump filter string as argument ?
